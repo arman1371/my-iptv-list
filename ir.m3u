@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Iran International (1080p)
+#EXTINF:-1 group-title="News",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
-#EXTINF:-1,BBC Persian (720p)
+#EXTINF:-1 group-title="News",BBC Persian (720p)
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
 
-#EXTINF:-1,Manoto TV (1080p)
+#EXTINF:-1 group-title="Entertainment",Manoto TV (1080p)
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
