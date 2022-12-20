@@ -11,3 +11,9 @@ https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-cloud.irib.ir/img/channel/VarzeshTV300.png" group-title="Sport",IRIB Varzesh
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHKsKp7.png" group-title="Music",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8vx6FG.png" group-title="Music",PMC
+https://hls.pmchd.live/hls/stream.m3u8
