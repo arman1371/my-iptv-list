@@ -9,9 +9,6 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_per
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Entertainment",Manoto TV
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://s-cloud.irib.ir/img/channel/VarzeshTV300.png" group-title="Sport",IRIB Varzesh
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8vx6FG.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
