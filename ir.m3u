@@ -25,7 +25,7 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
-http://194.33.105.211:8080/channel/n4cdaad67/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.sK18cUoisOiE4I6j7QzAfZoa__LXD0Y9jAm8tzDUo5SVg6K0g-r_OK82rFk4V1_IhuTk_6xHltmE3WfHWJDxNw
+https://194.33.105.211:8080/channel/n4cdaad67/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.sK18cUoisOiE4I6j7QzAfZoa__LXD0Y9jAm8tzDUo5SVg6K0g-r_OK82rFk4V1_IhuTk_6xHltmE3WfHWJDxNw
 
 #EXTINF:-1 tvg-logo="https://simacdn2.iribtv.ir/14//original/2021/04/29/637553002165003249.jpg" group-title="IRIB",IRIB Varzesh
-http://194.33.105.211:8080/channel/4778e02d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.sK18cUoisOiE4I6j7QzAfZoa__LXD0Y9jAm8tzDUo5SVg6K0g-r_OK82rFk4V1_IhuTk_6xHltmE3WfHWJDxNw
+https://194.33.105.211:8080/channel/4778e02d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.sK18cUoisOiE4I6j7QzAfZoa__LXD0Y9jAm8tzDUo5SVg6K0g-r_OK82rFk4V1_IhuTk_6xHltmE3WfHWJDxNw
