@@ -19,7 +19,7 @@ https://persiana-music.icdndhcp.com/hls/stream.m3u8
 https://persiana-nostalgia.icdndhcp.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhLfb2V.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
