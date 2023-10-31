@@ -13,10 +13,10 @@ https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gu83Mpl.png" group-title="Music",Persiana Music
-http://51.210.199.24/hls/stream.m3u8
+https://persiana-music.icdndhcp.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHKsKp7.png" group-title="Music",Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
+https://persiana-nostalgia.icdndhcp.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
