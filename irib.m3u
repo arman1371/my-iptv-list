@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="IRIB",IRIB 3
-https://live.aionet.ir/hls/tv3/tv3.m3u8
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 
 #EXTINF:-1 group-title="IRIB",IRIB Varzesh
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
