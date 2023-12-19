@@ -18,6 +18,9 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHKsKp7.png" group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sonnati.png" group-title="Music",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 
