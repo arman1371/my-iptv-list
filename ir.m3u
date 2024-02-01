@@ -4,7 +4,7 @@
 https://live.playstop.me/1816184091/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706847001/ei/uRa8ZdKdEIKZ2_gP1eiCwAs/ip/172.183.131.128/id/zP-8G1UsdFc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzkk8FEw_LkacaaoGsf-NPjOlBh3ZS0IaxuT-JlP_4U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZTpeOXH-33fuBkTIWOu7oJhGvO6EKIckTTmoGNCfD2ECIFf8_Vq_S4tC9NoS3GFjMgBClbQHaAahh6Kv7Xa3Ge05/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706850617/ei/2SS8ZfahEPue_9EPu5yq-AE/ip/20.97.189.16/id/zP-8G1UsdFc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fynBdGG7_IlrE0MhGCtCUYHn53Hi20uyiUrkcx0lFOQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGvYsx72LXCD-Z0GEpmLtPpb3wuN1O7AMAiXDScxYf6MCIEMymUd96W_HxbWA09_FP0IY3BcSx9s_G7DT-hulnVq0/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Entertainment",Manoto TV
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
