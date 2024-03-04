@@ -24,6 +24,9 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Caltex_Records.png/600px-Caltex_Records.png" group-title="Music",Caltex Music
+https://video.caltexmusic.com/hls/caltextv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhLfb2V.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
