@@ -4,7 +4,7 @@
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709755744/ei/AHnoZd-uHcmdsfIPq52W-As/ip/20.172.44.134/id/zP-8G1UsdFc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9d290J7cZ-WzkQDGLZA98tvrzptAn9pHx96oipRL-U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMpqhxWL1UoBgJSWhBLF8V_LT8Xbq7z9v5UoyAnT2xc4AiBcznbIUwiXayIL8LVFC9SeVZsAFaXf8LGHCth8YFDD1Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709759516/ei/vIfoZdeoIIGgsfIP9f-v8AU/ip/52.238.29.128/id/zP-8G1UsdFc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7M8N5YIVPthpIt-sD-H6uiWy0Hi0UfLHPpWjPQosOk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350307/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJiKbhWMxk8Hdi2fVFbIPvq3BxTzcxqiTwt61PsYmi0wAiEAmsg7AxCQ5dNldZ8kSB_iKE_GUwsQiMv0uBv9B6DIa64%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ir.voanews.com/Content/responsive/VOA/fa-IR/img/logo.svg" group-title="News",VOA Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
