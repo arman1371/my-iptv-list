@@ -2,8 +2,8 @@ name: Update URLs
 run-name: Updating some URLs to be valid URLs
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 * * * *'
+  # schedule:
+  #   - cron:  '0 * * * *'
 jobs:
   Update-URLs:
     runs-on: ubuntu-latest
