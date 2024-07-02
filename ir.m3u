@@ -32,3 +32,6 @@ https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1p
 
 #EXTINF:-1 tvg-logo="https://simacdn2.iribtv.ir/14//original/2021/04/29/637553002165003249.jpg" group-title="IRIB",IRIB Varzesh
 https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180617/zvr/kisspng-irib-tv1-irib-tv3-television-broadcasting-iran-5b267dd2015e54.4838000215292492340056.jpg" group-title="IRIB",IRIB 1 (direct)
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
