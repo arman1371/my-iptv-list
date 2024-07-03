@@ -1,7 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180617/zvr/kisspng-irib-tv1-irib-tv3-television-broadcasting-iran-5b267dd2015e54.4838000215292492340056.jpg" group-title="IRIB",IRIB 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
 https://live.aionet.ir/hls/tv3/tv3.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/200px-IRIB_TV4_logo.svg.png" group-title="IRIB",IRIB 4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+
 #EXTINF:-1 tvg-logo="https://simacdn2.iribtv.ir/14//original/2021/04/29/637553002165003249.jpg" group-title="IRIB",IRIB Varzesh
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
