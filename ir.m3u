@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/512px-Iran_International.svg.png" group-title="News",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
-#EXTINF:-1 tvg-logo="https://projects.voanews.com/branding/img/voa-logo-tricolor-on-white_2x.png" group-title="News",VOA Farsi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/220px-VOA_logo.svg.png" group-title="News",VOA Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian
@@ -12,10 +12,10 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gu83Mpl.png" group-title="Music",Persiana Music
+#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-music.png" group-title="Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uHKsKp7.png" group-title="Music",Persiana Nostalgia
+#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-nostalgia.png" group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sonnati.png" group-title="Music",Persiana Sonnati
@@ -24,10 +24,10 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
 http://74.115.215.41/live/smil:rjtv.smil/chunklist_w533251841_b2892000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhLfb2V.png" group-title="Entertainment",MBC Persia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/220px-MBC_Persia_Logo.svg.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180617/zvr/kisspng-irib-tv1-irib-tv3-television-broadcasting-iran-5b267dd2015e54.4838000215292492340056.jpg" group-title="IRIB",IRIB 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1
 https://armanyazdani.ir:8443/channel/n4cdaad69/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2
@@ -42,5 +42,5 @@ https://armanyazdani.ir:8443/channel/n4cdaad66/index.m3u8?q=eyJ1c2VySWQiOiJhZG1p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN
 https://armanyazdani.ir:8443/channel/3753ca7c/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
-#EXTINF:-1 tvg-logo="https://simacdn2.iribtv.ir/14//original/2021/04/29/637553002165003249.jpg" group-title="IRIB",IRIB Varzesh
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh
 https://armanyazdani.ir:8443/channel/4778e02d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
