@@ -24,5 +24,5 @@ https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (TW)
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",Aparat Sport
+#EXTINF:-1 tvg-logo="https://static.cdn.asset.aparat.cloud/profile-photo/9990286-995424-m.jpg" group-title="Aparat",Aparat Sport
 https://live.asset.aparatsport.com/0b14467da247cb8d536eaa19b66a6ea5/livehls/AparatSportAdel_dejdhao_1080p/index.m3u8?s=FJI8MwhaMhbNN-LDiWyegA&e=1736733623
