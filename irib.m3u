@@ -7,7 +7,7 @@ https://live.aionet.ir/hls/tv1/tv1.m3u8
 https://live.aionet.ir/hls/tv2/tv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
-https://live.aionet.ir/hls/tv3/tv3.m3u8
+https://lb-cdn.sepehrtv.ir/securelive3/tv3hd/tv3hd.m3u8?s=buSxiwww-ZPFmPX_1zj1LA&t=1736720407
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (TW)
 https://ncdn.telewebion.com/tv3/live/playlist.m3u8
@@ -19,7 +19,7 @@ https://live.aionet.ir/hls/tv4/tv4.m3u8
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+https://lb-cdn.sepehrtv.ir/securelive3/varzeshhd/varzeshhd.m3u8?s=aznxsthoeDlbOkv3kNvZAA&t=1736720357
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (TW)
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
