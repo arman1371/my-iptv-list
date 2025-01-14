@@ -1,0 +1,23 @@
+proxy:
+  use: true
+  httpProxy: 'localhost:1090'
+  sslProxy: 'localhost:1090'
+sources:
+  - name: IRIB 1
+    url: https://sepehrtv.ir/live/tv1
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
+  - name: IRIB 2
+    url: https://sepehrtv.ir/live/tv2
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
+  - name: IRIB 3
+    url: https://sepehrtv.ir/live/tv3
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
+  - name: IRINN
+    url: https://sepehrtv.ir/live/irinn
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
+  - name: Mostanad
+    url: https://sepehrtv.ir/live/mostanad
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
+  - name: Varzesh
+    url: https://sepehrtv.ir/live/varzesh
+    xpath: '//*[@id="playerBody"]/div/div/div[8]/video/source'
