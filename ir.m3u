@@ -9,6 +9,12 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d724a8_df1af012e7ed4dc38539558270eb279f~mv2.png" group-title="Entertainment",Manoto
+https://manoto.icdndhcp.com/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/220px-MBC_Persia_Logo.svg.png" group-title="Entertainment",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
@@ -23,9 +29,6 @@ https://sonhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="Music",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/220px-MBC_Persia_Logo.svg.png" group-title="Entertainment",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
 https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
