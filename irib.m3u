@@ -20,4 +20,4 @@ https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8:443
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
