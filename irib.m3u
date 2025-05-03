@@ -13,6 +13,10 @@ https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 https://ncdn.telewebion.com/tv4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh
