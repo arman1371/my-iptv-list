@@ -1,15 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/tv2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/200px-IRIB_TV4_logo.svg.png" group-title="IRIB",IRIB 4
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/tv4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN
