@@ -15,8 +15,8 @@ https://manoto.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/220px-MBC_Persia_Logo.svg.png" group-title="Entertainment",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC
-https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" group-title="Music",PMC
+https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-music.png" group-title="Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
@@ -33,6 +33,15 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3
 https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh
+https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+
+#EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (CDN)
+https://ir002.apitestarmancheckv3.store:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (CDN)
+https://ir002.apitestarmancheckv3.store:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (Direct)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -40,8 +49,6 @@ https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1p
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh
-https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (Direct)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -49,12 +56,3 @@ https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-4.motorsport.com/images/amp/68ey3q40/s900/f1-abu-dhabi-gp-2017-f1-logo-6614915.webp" group-title="Anten",F
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://api2.anten.ir/programs/126561/playlistForGuests/3256969683/false/eyJhbGciOiJNRDUiLCJ0eXAiOiJKV1QifQ.eyJVc2VySWQiOjMyNTY5Njk2ODMsIlVuaW54VGltZXN0YW1wIjoxNzQ2Mzk0MzcxLCJJcCI6IjE5NC4zMy4xMDUuMjExIiwiUXVhbGl0eUhpZ2hMb3dUeXBlIjowLCJDbGllbnRQbGF0Zm9ybSI6NH0.X8ANRVw0kTx--gp87BcHfglist.m3u8
-
