@@ -57,10 +57,22 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" group-title="Sport",F1 (1)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://live.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/khodrobank_kjpr2hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" group-title="Sport",F1 (2)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://live.asset.aparat.com/9d01dfd6f69706a3b3e92778983749fd/livehls/PRIME_SPORT_huo17u2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" group-title="Sport",F1 (3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://live.asset.aparat.com/eba89a9343aca7b35c54199433318b6b/livehls/Doctor_Moein_onw67o9.m3u8
