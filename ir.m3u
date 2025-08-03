@@ -34,16 +34,16 @@ https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1p
 https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (CDN)
-https://ir002.apitestarmancheckv3.store:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+https://armanyazdani.ir:8443/channel/n185385c0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (CDN)
-https://ir002.apitestarmancheckv3.store:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+https://armanyazdani.ir:8443/channel/4ff76e94/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (SP)
-https://ir002.apitestarmancheckv3.store:8443/channel/aabe2b1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+https://armanyazdani.ir:8443/channel/aabe2b1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (SP)
-https://ir002.apitestarmancheckv3.store:8443/channel/n7bbfdae3/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+https://armanyazdani.ir:8443/channel/n7bbfdae3/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
 
 #EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (Direct)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -60,14 +60,8 @@ https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",F1 (1)
-https://ir002.apitestarmancheckv3.store:8443/channel/n24a059d0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
-
-#EXTINF:-1 group-title="Sport",F1 (2)
-https://ir002.apitestarmancheckv3.store:8443/channel/n24a059b1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
-
-#EXTINF:-1 group-title="Sport",F1 (3)
-https://ir002.apitestarmancheckv3.store:8443/channel/n24a05992/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
-
-#EXTINF:-1 group-title="Sport",F1 (4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" group-title="Sport",F1 (1)
 https://armanyazdani.ir:8443/channel/n24a059d0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" group-title="Sport",F1 (2)
+https://armanyazdani.ir:8443/channel/n24a05992/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.v4nFwqSCakDPjRDsHJOdgPzAKaEaos2PXfhVnAfMFNZYXHCO-o8Kt2MmOAtRXGEUlspo1dchHQH5ChkO4VicWg
