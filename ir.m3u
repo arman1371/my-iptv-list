@@ -24,8 +24,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-nostalgia.png" group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sonnati.png" group-title="Music",Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music",Avang TV
+https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Radio_Javan_official_logo.png" group-title="Music",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
