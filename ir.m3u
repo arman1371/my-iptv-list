@@ -59,3 +59,9 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 group-title="IRIB",Alborz (Direct)
 https://ncdn.telewebion.com/alborz/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Fars (Direct)
+https://ncdn.telewebion.com/fars/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Tabarestan (Direct)
+https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8
