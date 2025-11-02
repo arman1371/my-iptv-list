@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2
 https://ncdn.telewebion.com/tv2/live/playlist.m3u8
