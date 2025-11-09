@@ -23,3 +23,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (SP)
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+
+#EXTINF:-1 group-title="Aparat",F1
+https://live.asset.aparat.com/e492abfe5e6361307af0231737995fd9/livehls/pitwall_rsw1up5.m3u8
