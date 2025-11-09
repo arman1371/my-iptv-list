@@ -14,6 +14,9 @@ NC='\033[0m' # No Color
 REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 VENV_PATH="$REPO_ROOT/.venv"
 
+# Change to repository root to ensure git commands work
+cd "$REPO_ROOT"
+
 # Activate virtual environment if it exists
 if [ -d "$VENV_PATH" ]; then
     echo "Activating virtual environment..."
