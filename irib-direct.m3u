@@ -1,19 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1 (Direct)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1 (TW) (Direct)
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2 (Direct)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2 (TW) (Direct)
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (Direct)
+#EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (TW) (Direct)
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/200px-IRIB_TV4_logo.svg.png" group-title="IRIB",IRIB 4 (Direct)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/200px-IRIB_TV4_logo.svg.png" group-title="IRIB",IRIB 4 (TW) (Direct)
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN (Direct)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN (TW) (Direct)
 https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (Direct)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (TW) (Direct)
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/200px-IRIBTV1.svg.png" group-title="IRIB",IRIB 1 (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/IRIB_TV2_%281993-2015%29.svg" group-title="IRIB",IRIB 2 (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv3.ir/assets/img/TV3-pink.png" group-title="IRIB",IRIB 3 (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/200px-IRIB_TV4_logo.svg.png" group-title="IRIB",IRIB 4 (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/irib-tv4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/IRINN_IRIB.png" group-title="IRIB",IRINN (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/IRIB_Varzesh_2022.png" group-title="IRIB",IRIB Varzesh (AP) (Direct)
+#EXTHTTP:{"Referer":"https://www.aparatchi.com"}
+https://gg.hls2.xyz/live/irib-varzesh/playlist.m3u8
