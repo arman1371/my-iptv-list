@@ -72,5 +72,4 @@ async def proxy(
             referer=referer,
             proxy_base_url=proxy_base,
         )
-
-    return PlainTextResponse(content=body)
+    return PlainTextResponse(content=body, media_type=content_type or "text/plain")
