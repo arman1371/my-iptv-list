@@ -4,7 +4,7 @@ non-comment lines (segment URLs, sub-playlist URLs) are routed back
 through the proxy endpoint with the same referer.
 """
 
-from urllib.parse import urlencode, urljoin
+from urllib.parse import quote, urljoin
 
 
 def rewrite_m3u8(content: str, base_url: str, referer: str, proxy_base_url: str) -> str:
@@ -38,10 +38,14 @@ def rewrite_m3u8(content: str, base_url: str, referer: str, proxy_base_url: str)
         # Resolve relative URL against the base (post-redirect) URL
         absolute_url = urljoin(base_url, stripped)
 
-        # Build the proxy URL
-        params = urlencode({"url": absolute_url, "referer": referer})
-        proxy_url = f"{proxy_base_url}/proxy?{params}"
+        # Build the proxy URL — keep common URL chars readable (:/?=@) but
+        # still encode & so it doesn't break the outer query string parsing.
+        encoded_url = quote(absolute_url, safe=":/?=@")
+        encoded_referer = quote(referer, safe="")
+        proxy_url = (
+            f"{proxy_base_url}/proxy?url={encoded_url}&referer={encoded_referer}"
+        )
 
         result.append(proxy_url)
 
-    return "\n".join(result)
+    return "\n".join(result) + "\n"
