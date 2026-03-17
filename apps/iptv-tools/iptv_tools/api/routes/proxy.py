@@ -86,5 +86,4 @@ async def proxy(
     # For binary segments (MPEG-TS, AAC, etc.) stream the raw bytes to avoid
     # charset decoding which silently corrupts/truncates binary content.
     raw_bytes = response.content
-    print(f"Proxying {len(raw_bytes)} bytes from {final_url} with Referer={referer}")
     return Response(content=raw_bytes, headers=upstream_headers)
