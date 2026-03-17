@@ -1,6 +1,6 @@
 import httpx
 from fastapi import APIRouter, HTTPException, Query, Request
-from fastapi.responses import PlainTextResponse
+from fastapi.responses import PlainTextResponse, Response
 
 from iptv_tools.api.utils.m3u8_rewriter import rewrite_m3u8
 
@@ -25,7 +25,7 @@ def _is_m3u8(url: str, content_type: str) -> bool:
     return stripped.endswith(".m3u8") or stripped.endswith(".m3u")
 
 
-@router.get("/proxy", response_class=PlainTextResponse)
+@router.get("/proxy")
 async def proxy(
     request: Request,
     url: str = Query(..., description="The target URL to fetch."),
@@ -35,11 +35,15 @@ async def proxy(
 ):
     """
     Fetch *url* with the given *referer* injected as a request header,
-    follow redirects, and return the raw response body as plain text.
+    follow redirects, and return the raw response body.
 
     If the response is an HLS/M3U8 playlist, all relative segment/playlist
     URLs are rewritten to route back through this proxy endpoint so that
     subsequent requests also carry the correct Referer automatically.
+
+    For binary responses (e.g. MPEG-TS segments) the raw bytes are streamed
+    directly without any charset decoding, which would otherwise corrupt or
+    truncate binary data.
     """
     headers = {"Referer": referer}
 
@@ -60,24 +64,27 @@ async def proxy(
 
     content_type = response.headers.get("content-type", "")
     final_url = str(response.url)  # post-redirect URL, used as base for relative paths
-    body = response.text
+
+    # hop-by-hop and encoding headers that must not be forwarded
+    _skip = {"content-length", "transfer-encoding", "content-encoding", "connection"}
+    upstream_headers = {
+        k: v for k, v in response.headers.items() if k.lower() not in _skip
+    }
 
     if _is_m3u8(final_url, content_type):
         # Build the proxy base URL from the incoming request so it works
         # regardless of the host/port the server is running on.
         proxy_base = str(request.base_url).rstrip("/")
         body = rewrite_m3u8(
-            content=body,
+            content=response.text,
             base_url=final_url,
             referer=referer,
             proxy_base_url=proxy_base,
         )
+        return PlainTextResponse(content=body, headers=upstream_headers)
 
-    # Forward all upstream headers, excluding hop-by-hop headers and ones
-    # that would be incorrect after body decoding/rewriting by this proxy.
-    _skip = {"content-length"}
-    upstream_headers = {
-        k: v for k, v in response.headers.items() if k.lower() not in _skip
-    }
-
-    return PlainTextResponse(content=body, headers=upstream_headers)
+    # For binary segments (MPEG-TS, AAC, etc.) stream the raw bytes to avoid
+    # charset decoding which silently corrupts/truncates binary content.
+    raw_bytes = response.content
+    print(f"Proxying {len(raw_bytes)} bytes from {final_url} with Referer={referer}")
+    return Response(content=raw_bytes, headers=upstream_headers)
