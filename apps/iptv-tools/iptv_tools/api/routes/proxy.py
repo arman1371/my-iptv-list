@@ -72,4 +72,12 @@ async def proxy(
             referer=referer,
             proxy_base_url=proxy_base,
         )
-    return PlainTextResponse(content=body, media_type=content_type or "text/plain")
+
+    # Forward all upstream headers, excluding hop-by-hop headers and ones
+    # that would be incorrect after body decoding/rewriting by this proxy.
+    _skip = {"content-length"}
+    upstream_headers = {
+        k: v for k, v in response.headers.items() if k.lower() not in _skip
+    }
+
+    return PlainTextResponse(content=body, headers=upstream_headers)
