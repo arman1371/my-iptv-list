@@ -40,10 +40,10 @@ http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/irib-varzesh/playlist.m3u8&r
 http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8&referer=aparatchi.com
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="Persiana",Persiana Sport 2 (AP)
-http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sport2/playlist.m3u8&referer=aparatchi.com
+http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8&referer=aparatchi.com
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="Persiana",Persiana Sport 3 (AP)
-http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sport3/playlist.m3u8&referer=aparatchi.com
+http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8&referer=aparatchi.com
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="Persiana",Persiana Sport 4 (AP)
-http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sport4/playlist.m3u8&referer=aparatchi.com
+http://piv4:8000/proxy?url=https://gg.hls2.xyz/live/Persiana%20Sports4/playlist.m3u8&referer=aparatchi.com
